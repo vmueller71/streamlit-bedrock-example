@@ -1,0 +1,9 @@
+boto3==1.28.58
+botocore==1.31.58
+langchain==0.0.306
+transformers
+streamlit
+
+# urllib3==1.26.6
+# beautifulsoup4
+# google
